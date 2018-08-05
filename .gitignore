@@ -3,3 +3,5 @@ lib/
 *.log
 .idea/
 *.heapsnapshot
+
+private.js
